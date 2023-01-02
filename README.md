@@ -3,6 +3,8 @@
 # Digital garden Jekyll template
 
 Use this template repository to get started with your own digital garden.
+new note: [[newnote]]
+accent [[temp4]]
 
 **I wrote a tutorial explaining how to set it up: [Setting up your own digital garden with Jekyll](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)**
 
