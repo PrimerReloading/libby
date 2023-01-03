@@ -1,10 +1,11 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8cfa8785-8df8-4aad-ad35-8f1c790b8baf/deploy-status)](https://app.netlify.com/sites/digital-garden-jekyll-template/deploys)
 
-# Digital garden Jekyll template
+# this is the readme file
 
 Use this template repository to get started with your own digital garden.
 new note: [[newnote]]
 accent [[temp4]]
+netlifynotes/temp 1 [[temp 1]]
 
 **I wrote a tutorial explaining how to set it up: [Setting up your own digital garden with Jekyll](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)**
 
