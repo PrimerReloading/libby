@@ -1,11 +1,6 @@
----
-layout: page
-title: Home
-id: home
-permalink: /
----
 
-# Welcome! 🌱
+accents [[accents]]
+
 about[[about]]
 newnote[[newnote]]
 tigers [[tigers]]
