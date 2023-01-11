@@ -1,6 +1,9 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8cfa8785-8df8-4aad-ad35-8f1c790b8baf/deploy-status)](https://app.netlify.com/sites/digital-garden-jekyll-template/deploys)
 
 # this is the readme file
+i misunderstood [[Imisunderstood]]
+titaniumwhat mesh: [[Titaniumwhatmesh]]
+
 
 Use this template repository to get started with your own digital garden.
 new note: [[newnote]]
